@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "791072514158",
+    "project_id": "occomy",
+    "storage_bucket": "occomy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791072514158:android:f43ef4d788bee9f26c067f",
+        "android_client_info": {
+          "package_name": "com.occomy.occomyandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791072514158-f7crt1kneqa7mbqhv8kecg6572350o8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA24bdijN6vcFzpneG8j_EeV3OdrUt09hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791072514158-f7crt1kneqa7mbqhv8kecg6572350o8t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "791072514158-bqfomv4f9lph136f8eo3u1fe9tnm550a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.occomy.Occomy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

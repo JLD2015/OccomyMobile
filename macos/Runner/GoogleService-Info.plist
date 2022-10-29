@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>791072514158-de0oos3m0ouvj0nb8v9loh7vgf8efi4u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.791072514158-de0oos3m0ouvj0nb8v9loh7vgf8efi4u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD3bV1AA8xFawFgY1JbguYxkNxefvmIiGc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>791072514158</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.occomyMobile</string>
+	<key>PROJECT_ID</key>
+	<string>occomy</string>
+	<key>STORAGE_BUCKET</key>
+	<string>occomy.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:791072514158:ios:4e05514c3016fc516c067f</string>
+</dict>
+</plist>
